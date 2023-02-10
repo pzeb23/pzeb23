@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning computer vision & deep learning algorithms.
 
-The current Machine Learning project can be found here: https://backend-services-hydro.azurewebsites.net
+The current Machine Learning project deployed as a Docker image can be found here: https://backend-services-hydro.azurewebsites.net
 
 
 (2 min first startup time)
