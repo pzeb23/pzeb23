@@ -1,4 +1,4 @@
-### Hi there 👋 I am a passionate Machine Learning engineer & software developer
+### Hi there 👋 I am a professional software engineer with passion for Machine Learning
 
 
 🔭 I’m currently working on web API's for data science projects.
